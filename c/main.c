@@ -29,7 +29,7 @@ int main(int argc, const char * argv[]) {
 //    printf("%d\n",b);
     int a = 3;
     int b = 5;
-    int c = ab;
+    int c =a| b;
     printf("%d\n",c);
     return 0;
 }
