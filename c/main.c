@@ -24,9 +24,9 @@ enum color
 
 int main(int argc, const char * argv[]) {
     // insert code here...
+    int a = 10;
     printf("(are you ok??)\n");
     printf("%d\n",(int)strlen("c:\test\3277\test.c"));
-    int a = 10;
     printf("%d\n",a);
 //    printf("%c\n",'');
 //    char arr[] = "abc";//数组
