@@ -28,6 +28,7 @@ int main(int argc, const char * argv[]) {
     printf("(are you ok??)\n");
     printf("%d\n",(int)strlen("c:\test\3277\test.c"));
     printf("%d\n",a);
+    
 //    printf("%c\n",'');
 //    char arr[] = "abc";//数组
 //    char arr1[] = {'a','b','c',};
